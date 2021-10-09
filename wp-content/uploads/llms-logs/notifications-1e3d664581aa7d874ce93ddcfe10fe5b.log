@@ -1,0 +1,24 @@
+2021-09-11 15:44:03 - Queuing email notification ID #1
+2021-09-11 15:44:03 - Dispatching llms_notification_processor_email
+2021-09-11 15:44:04 - sending email notification ID #1
+2021-09-11 15:44:04 - error sending email notification ID #1
+2021-09-11 15:44:04 - Array
+(
+    [id] => 1
+    [created] => 2021-09-11 15:44:03
+    [updated] => 2021-09-11 15:44:03
+    [status] => new
+    [type] => email
+    [subscriber] => 2
+    [trigger_id] => student_welcome
+    [user_id] => 2
+    [post_id] => 
+    [html] => <p>Hello peserta@gmail.com peserta@gmail.com,</p>
+<p>Here's some helpful information to help you get started at Kuli-ah.</p>
+<p><b>Your Login</b>: peserta</p>
+<p><b>Your Dashboard</b>: <a href="http://lol.cybersecjustfor.fun/dashboard/">http://lol.cybersecjustfor.fun/dashboard/</a></p>
+<p>If you forgot or don't have a password you can reset it now so you can login and get started: <a href="http://lol.cybersecjustfor.fun/dashboard/lost-password/">http://lol.cybersecjustfor.fun/dashboard/lost-password/</a></p>
+
+)
+
+2021-09-11 15:44:04 - Processing for llms_notification_processor_email finished
